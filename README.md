@@ -6,14 +6,6 @@
 
 > 免责声明：以下列出的不代表本 git 主的喜恶
 
-<style>
-code {
-    background-color: #fff;
-    color: #000;
-    font-weight: bold;
-}
-</style>
-
 |  用例  | 正则表达式 |
 | :-----: | :-----: |
 | `第一`<br>(不会屏蔽正常`xxx第一xxx`) | `/^[我是]*第一$/` |
