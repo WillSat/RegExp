@@ -4,7 +4,8 @@
 
 ## Bilibili 弹幕正则屏蔽
 
-> 免责声明：以下列出的不代表本 git 主的喜恶
+> 免责声明：以下列出的不代表本 git 主的喜恶  
+> 快捷导入 [dist/bilibili.block.json](dist/bilibili.block.json)
 
 |  用例  | 正则表达式 |
 | :-----: | :-----: |
