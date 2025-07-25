@@ -13,6 +13,7 @@
 | IPv6 地址（完整）<br>`2001:0db8:85a3:0000:0000:8b2e:0360:7a34`、`2001:db8:85a3::1:8b2e:360:7a34` | `/[\da-fA-F]{0,4}:[\da-fA-F]{0,4}:[\da-fA-F]{0,4}:[\da-fA-F]{0,4}:[\da-fA-F]{0,4}:[\da-fA-F]{0,4}:[\da-fA-F]{0,4}:[\da-fA-F]{0,4}/` |
 | HTML 起始标签<br>`<data-id>`、`<body class="centered">` | `/<[\w\-]+[^>]*>/` |
 | HTML 终止标签<br>`</data-id>`、`</html>` | `/<\/[\w\-]+>/` |
+| 网址<br>`https://www.bilibili.com/v/popular/all?spm_id_from=0.0.0.0#asdsad`、`HTTP://47.45.23.37` | `/[Hh][Tt][Tt][Pp][Ss]?:\/\/[^:\/\s]+(:\d{1,5})?(\/[^?#\s]*)?(\?[^#\s]+)?(#\S+)?/` |
 
 ## 文字
 
